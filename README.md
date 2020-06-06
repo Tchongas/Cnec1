@@ -6,7 +6,7 @@ container p { display: inline }
 a {
 	color: white;
 	
-	font-size: 30px;
+	font-size: 20px;
 	word-spacing: 30px;
 }
 body {
@@ -36,7 +36,7 @@ p    {
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/cristian1957" target="_blank">GEOGRAFIA</a><nobr>‎‎‎‏‏‎‎‎‎‏‏‎  </nobr><a href="https://digital.cneceduca.com.br/t/deniseamgarten" target="_blank">HISTORIA/SOCIOLOGIA</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/Douglas" target="_blank">ED-FISICA</a><nobr>‎‎‎‏‏‎  ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  ‎   ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ </nobr><a href="https://digital.cneceduca.com.br/t/gica" target="_blank">FILOSOFIA</a>
+<a href="https://digital.cneceduca.com.br/t/Douglas" target="_blank">ED-FISICA</a><nobr>‎‎‎‏‏‎  ‏‏‎ ‎‏‏‎ </nobr><a href="https://digital.cneceduca.com.br/t/gica" target="_blank">FILOSOFIA</a>
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/leandro-weber" target="_blank">FISICA</a><nobr>‎‎‎‏‏‎</nobr><a href="https://digital.cneceduca.com.br/t/Magdabertoni" target="_blank">ARTES</a>
 <p></p>
