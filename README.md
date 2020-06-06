@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -82,6 +81,4 @@ p    {
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/tatianegramado" target="_blank">PORTUGUES</a>
 <p></p>
- 
-</body>
-</html>
+
