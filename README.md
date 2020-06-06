@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -56,13 +57,13 @@ p    {
 </div>
 
 <div id="col">
-<a href="https://digital.cneceduca.com.br/" target="_blank">FEED-PRINCIPAL</a><nobr>‎‎‎‏‏‎</nobr>
+<a href="https://digital.cneceduca.com.br/" target="_blank">FEED</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/andreia-denise" target="_blank">QUIMICA</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/cristian1957" target="_blank">GEOGRAFIA</a><nobr></nobr>
+<a href="https://digital.cneceduca.com.br/t/cristian1957" target="_blank">GEO</a><nobr></nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/deniseamgarten" target="_blank">HISTORIA/SOCIOLOGIA</a>
+<a href="https://digital.cneceduca.com.br/t/deniseamgarten" target="_blank">HIS/SOC</a>
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/Douglas" target="_blank">ED-FISICA</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
@@ -73,12 +74,14 @@ p    {
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/Magdabertoni" target="_blank">ARTES</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/mauranegramado" target="_blank">MATEMATICA</a><nobr>‎‎‎‏‏‎</nobr>
+<a href="https://digital.cneceduca.com.br/t/mauranegramado" target="_blank">MAT</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/paollopiettro" target="_blank">INGLES</a>
 <p></p>
 <a href="https://digital.cneceduca.com.br/t/sabrinasironi" target="_blank">BIOLOGIA</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/tatianegramado" target="_blank">PORTUGUES</a>
+<a href="https://digital.cneceduca.com.br/t/tatianegramado" target="_blank">PORT</a>
 <p></p>
-
+ 
+</body>
+</html>
