@@ -56,28 +56,28 @@ p    {
 </div>
 
 <div id="col">
-<a href="https://digital.cneceduca.com.br/" target="_blank">FEED</a><nobr>‎‎‎‏‏‎</nobr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/andreia-denise" target="_blank">QUIMICA</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/cristian1957" target="_blank">GEO</a><nobr></nobr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a><nobr></nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/deniseamgarten" target="_blank">HIS/SOC</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/Douglas" target="_blank">ED-FISICA</a><nobr>‎‎‎‏‏‎</nobr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/gica" target="_blank">FILOSOFIA</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a>
 <p></p>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/leandro-weber" target="_blank">FISICA</a><nobr></nobr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a><nobr></nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/Magdabertoni" target="_blank">ARTES</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/mauranegramado" target="_blank">MAT</a><nobr>‎‎‎‏‏‎</nobr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/paollopiettro" target="_blank">INGLES</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/sabrinasironi" target="_blank">BIOLOGIA</a><nobr>‎‎‎‏‏‎</nobr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a><nobr>‎‎‎‏‏‎</nobr>
 <p></p>
-<a href="https://digital.cneceduca.com.br/t/tatianegramado" target="_blank">PORT</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">parabens</a>
 <p></p>
