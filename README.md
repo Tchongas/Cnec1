@@ -52,7 +52,7 @@ p    {
 <body>
 
 <div class="header">
-	<h1>Se fosse foda era bom</h1>
+	<h1>Um deles é bom</h1>
 </div>
 
 <div id="col">
