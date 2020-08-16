@@ -54,8 +54,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </p>
     <div class="w3-content w3-justify" style="max-width:600px">
       <h4>DOWLOAD</h4>
-      <p>Rola um pouco pra baixo e clicar em dowload aqui no site, tu vai fazer dowload de um arquivo .zip.<p>
-	  <p> depois disso tu extrai a pasta do dowload usando 7zip, winRAR Etc. mas lembra de botar a pasta em um lugar que tu nao vai mudar, pq se tu mudar o lugar dela fode tudo.<p>
+      <p>Rola um pouco pra baixo e clicar em dowload aqui no site, tu vai fazer dowload de um arquivo .zip.</p>
+	  <p> depois disso tu extrai a pasta do dowload usando 7zip, winRAR Etc. mas lembra de botar a pasta em um lugar que tu nao vai mudar, pq se tu mudar o lugar dela fode tudo.</p>
 	  
 	  <p>Depois disso tu vai no site chrome://extensions/    no google e olha pro canto superior direito e vai estar escrito "Modo de desenvolvedor" dai tu clica pra ativar, depois disso tu só arrasta a pasta já extraida em uma pasta aleatoria do teu PC pro site,
 		e depois disso ela devia aparecer ali e ja devia funcionar, dai tem botao de remover, atualizar etc se precisar.
