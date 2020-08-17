@@ -52,6 +52,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h4><b>COMO USAR</b></h4>
 	<p>Tu mete no chrome, aperta f5 e deu o cnec digital vai tar preto
     </p>
+	<img src="fundo.png" alt="Extensao ativa" style="width:900px;height:500px;">
+
     <div class="w3-content w3-justify" style="max-width:600px">
       <h4>DOWLOAD</h4>
       <p>Rola um pouco pra baixo e clicar em dowload aqui no site, tu vai fazer dowload de um arquivo .zip.</p>
@@ -60,6 +62,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 	  <p>Depois disso tu vai no site chrome://extensions/    no google e olha pro canto superior direito e vai estar escrito "Modo de desenvolvedor" dai tu clica pra ativar, depois disso tu só arrasta a pasta já extraida em uma pasta aleatoria do teu PC pro site,
 		e depois disso ela devia aparecer ali e ja devia funcionar, dai tem botao de remover, atualizar etc se precisar.
       </p>
+	  <img src="desenvo.png" alt="extensoes" style="width:350px;height:80px;">
       <p>Se precisar de ajuda chama no zapzap</p>
       <p>-Thomas</p>
       <hr class="w3-opacity">
@@ -79,7 +82,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
             
             </li>
             <li class="w3-light-grey w3-padding-24">
-			  <a href="matematica.docx" download>
+			  <a href="Extensioncnec.zip" download>
               <button class="w3-button w3-white w3-padding-large">DOWLOAD</button>
 			  </a>
 			  
@@ -99,8 +102,9 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
               <span class="w3-opacity">POR MES</span>
             </li>
             <li class="w3-light-grey w3-padding-24">
-			  <a href="apresentaçãoport.pptx" download>
+			  <a href="gustavo.png" download>
               <button class="w3-button w3-white w3-padding-large">COMPRAR</button>
+			  </a>
             </li>
           </ul>
         </div>
