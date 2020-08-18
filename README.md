@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h4><b>COMO USAR</b></h4>
 	<p>Tu mete no chrome, aperta f5 e deu o cnec digital vai tar preto
     </p>
-	<img src="fundo.png" alt="Extensao ativa" style="width:900px;height:450px;">
+	<img src="fundo.png" alt="Extensao ativa" style="width:900px;height:400px;">
 
     <div class="w3-content w3-justify" style="max-width:600px">
       <h4>DOWLOAD</h4>
