@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
 .w3-third img:hover{opacity: 1}
 </style>
-<body class="w3-light-grey w3-content" style="max-width:1600px">
+<body class="w3-light-grey w3-content" style="max-width:7600px">
 
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-bar-block w3-white w3-animate-left w3-text-grey w3-collapse w3-top w3-center" style="z-index:3;width:300px;font-weight:bold" id="mySidebar"><br>
