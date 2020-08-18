@@ -136,7 +136,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 <!-- End page content -->
 </div>
-</body>
+<body>
 <script>
 // Script to open and close sidebar
 function w3_open() {
