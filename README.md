@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 			
             
             
-            <li class="w3-light-grey w3-padding-48">
+            <li class="">
 			  <a href="Extensioncnec.zip" download>
               <button class="w3-button w3-white w3-padding-large">DOWLOAD</button>
 			  </a>
@@ -102,7 +102,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
               <h2>R$ 100</h2>
               <span class="w3-opacity">POR MES</span>
             </li>
-            <li class="w3-light-grey w3-padding-24">
+            <li class="">
 			  <a href="gustavo.png" download>
               <button class="w3-button w3-white w3-padding-large">COMPRAR</button>
 			  </a>
