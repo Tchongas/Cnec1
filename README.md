@@ -1,6 +1,7 @@
 
 <html lang="en">
 <title>Cnec dark mode</title>
+<body>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -135,7 +136,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 <!-- End page content -->
 </div>
-
+</body>
 <script>
 // Script to open and close sidebar
 function w3_open() {
@@ -157,4 +158,5 @@ function onClick(element) {
 }
 
 </script>
+
 
