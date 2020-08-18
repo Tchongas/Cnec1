@@ -7,6 +7,11 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <body style="width: 90%"> 
 <style>
+#content {
+   width: 600px;
+   margin-left: auto;
+   margin-right: auto;
+}
 body {width :650px, height: 600px}
 h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
