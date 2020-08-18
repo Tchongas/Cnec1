@@ -118,8 +118,6 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <div class="w3-content" style="max-width:600px">
       <h4 class="w3-center"><b>TUTORIAL PROS BURRO</b></h4>
       <p>Nao.<p>
-    </div>
-  </div>
 
   <!-- Footer -->
   <footer class="w3-container w3-padding-32 w3-grey">  
