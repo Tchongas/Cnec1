@@ -1,5 +1,6 @@
 body {
-  background-color: black;
+  background-image: url('');
+  background-color: black !important;
   background-size: cover;
   height: 100px;
   width: 600px;
