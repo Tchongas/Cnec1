@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <title>Cnec dark mode</title>
 <meta charset="UTF-8">
