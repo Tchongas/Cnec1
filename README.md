@@ -58,6 +58,15 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
+    <h4><b>Atualizaçao</b></h4>
+	<p>Concertei umas coisa mas algumas eram dificeis demais então eu só ignorei, e agora se tu clicar no quadrado azul inves de aparecer uma foto do gustavo começa a tocar uma live de Lo-Fi, tambem fiz que os nomes dos meus colegas fiquem diferentes, por exemplo
+	Gustavvo carro cardoso
+	Caua innerbloom santos
+	Fã de one directionkkkkkk sthal pereira
+	Luca(atrasado) Sala zanchi
+	Pedro "vou te quebrar na porrada" de oliveira
+	Tchongass foda pica
+    </p>
     <h4><b>COMO USAR</b></h4>
 	<p>Tu mete no chrome, aperta f5 e deu o cnec digital vai tar preto
     </p>
