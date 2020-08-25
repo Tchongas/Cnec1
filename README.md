@@ -66,7 +66,7 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 	<p>Luca(Atrasado) Sala Zanchi</p>
 	<p>Pedro "Vou Te Quebrar Na Porrada" de oliveira</p>
 	<p>Tchongass Foda Pica</p>
-    </p>
+    
     <h4><b>COMO USAR</b></h4>
 	<p>Tu mete no chrome, aperta f5 e deu o cnec digital vai tar preto
     </p>
