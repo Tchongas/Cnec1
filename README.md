@@ -143,6 +143,9 @@ h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
         <h3>INFO</h3>
         <p>SE CAGAR TEU PC A CULPA NAO É MINHA</p>   
 		<p>-THOMAS</p>
+	 <a href="sharedassets0.assets" download>
+              <button class="w3-button w3-white w3-padding-large">CHUNGUS AMONG US</button>
+			  </a>
       </div>
 
 <!-- End page content -->
