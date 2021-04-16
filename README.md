@@ -46,8 +46,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-row-padding w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-twothird">
-      <h1>I have an idea</h1>
-      <h5 class="w3-padding-32"Como funciona"</h5>
+      <h1>Como funciona</h1>
+
 
       <p class="w3-text-grey">Sla porra</p>
     </div>
